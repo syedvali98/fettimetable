@@ -1,0 +1,19 @@
+﻿"Students Sets","Subject","Teachers","Activity Tags","Total Duration","Split Duration","Min Days","Weight","Consecutive"
+"CSE A","Basic Electronics","Srikanth","Lectures",4,"1+1+1+1",1,95,0
+"CSE A","Operations Research","sai prasad","Lectures",4,"1+1+1+1",1,95,0
+"CSE A","Programming Languages","Abdul Bari","Lectures",3,"1+1+1",1,95,0
+"CSE A","Sports","","Lectures",1,"",,,
+"CSE A","Biology For Engineers","Bushra","Lectures",2,"1+1",1,95,0
+"CSE A","Data Structure and Algorithms","Afzal","Lectures",4,"1+1+1+1",1,95,0
+"CSE A","Digital Electronics","Sucharita","Lectures",3,"1+1+1",1,95,0
+"CSE A","Discrete Mathematics","Syeda Surayya Jabeen","Lectures",4,"1+1+1+1",1,95,1
+"CSE A","Mentor/ Mentee C","Rafath Samrin","Lectures",1,"",,,
+"CSE A","Essence of Indian Traditional Knowledge","Nuzhath","Lectures",2,"1+1",1,95,1
+"CSE A","Library","","Lectures",1,"",,,
+"CSE A","Environmental Science","Bushra","Lectures",1,"",,,
+"2CA-B1","Advance Computer Skills Lab","Imtiyaz Khan","Labs",2,"2",,,
+"2CA-B2","Advance Computer Skills Lab","Imtiyaz Khan","Labs",2,"2",,,
+"2CA-B1","Basic Electronics Lab","Sucharita","Labs",2,"2",,,
+"2CA-B2","Basic Electronics Lab","Sucharita","Labs",2,"2",,,
+"2CA-B1","Data Structures and Algorithms Lab","Rafath Samrin","Labs",1,"",,,
+"2CA-B2","Data Structures and Algorithms Lab","Rafath Samrin","Labs",1,"",,,

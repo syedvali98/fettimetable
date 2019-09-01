@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>TimeTable</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <nav class="mx-auto navbar navbar-light bg-light">
+                    <h1 class="mx-auto navbar-brand mb-0 h1">Game Of Codes</h1>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <form action="upload.php" method="post" enctype="multipart/form-data">
+                    <div class="row">
+                        <div class="col-4">
+                            <h3 class="text-muted" style="padding: 35px;">Teacher's</h3>
+                            <div class="col-9">
+                                <div class="form-group">
+                                    <label for="exampleFormControlFile1">Please upload techers csv file</label>
+                                    <input type="file" name="fileToUpload" class="form-control-file" id="exampleFormControlFile1">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <h3 class="text-muted" style="padding: 35px;">Subject's</h3>
+                            <div class="col-9">
+                                <div class="form-group">
+                                    <label for="exampleFormControlFile1">Please upload subjects csv file</label>
+                                    <input type="file" name="fileToUpload1" class="form-control-file" id="exampleFormControlFile1">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <h3 class="text-muted" style="padding: 35px;">Activities</h3>
+                            <div class="col-9">
+                                <div class="form-group">
+                                    <label for="exampleFormControlFile1">Please upload activities csv file</label>
+                                    <input type="file" name="fileToUpload2" class="form-control-file" id="exampleFormControlFile1">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12" style="padding: 25px;">
+                        <input class="btn btn-success btn-lg btn-block" type="submit" value="Submit">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
